@@ -1,0 +1,43 @@
+[{
+        "name": "Grand Theft Auto V",
+        "rating": 4.48,
+        "released": "2013-09-17",
+        "updated": "2020-09-23",
+        "background_image": "https://cdn.forbes.com.mx/2020/05/Grand-Theft-Auto-V-640x360.jpg"
+    },
+    {
+        "name": "Portal 2",
+        "rating": 4.62,
+        "released": "2011-04-18",
+        "updated": "2020-08-03",
+        "background_image": "https://www.hrkgame.com/media/games/.thumbnails/header_ZmmMzI5.jpg/header_ZmmMzI5-460x215.jpg"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "rating": 5.62,
+        "released": "2015-05-18",
+        "updated": "2020-08-03",
+        "background_image": "https://i0.wp.com/pivigames.blog/wp-content/uploads/2016/11/the_witcher_3-2774049.jpg"
+    },
+    {
+        "name": "Left 4 Dead 2",
+        "rating": 4.02,
+        "released": "2019-04-18",
+        "updated": "2022-01-03",
+        "background_image": "https://i0.wp.com/pivigames.blog/wp-content/uploads/2022/04/Left-4-Dead-Ultima-version-pivigames.jpg"
+    },
+    {
+        "name": "The Elder Scroll V: Shyrim",
+        "rating": 4.42,
+        "released": "2017-08-18",
+        "updated": "2021-04-22",
+        "background_image": "https://s3.gaming-cdn.com/images/products/10352/616x353/the-elder-scrolls-online-collection-high-isle-pc-mac-juego-cover.jpg"
+    },
+    {
+        "name": "Tomb Raider",
+        "rating": 5.42,
+        "released": "2020-08-18",
+        "updated": "2021-12-22",
+        "background_image": "https://i0.wp.com/pivigames.blog/wp-content/uploads/2020/09/Tomb-Raider-PiviGames.jpg"
+    }
+]
